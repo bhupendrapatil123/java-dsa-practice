@@ -27,6 +27,6 @@ public class Arithmetic {
         if (num2 != 0)
             System.out.println("Division = " + quotient);
 
-        sc.close();
+        
     }
 }
