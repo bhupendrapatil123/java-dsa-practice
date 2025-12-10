@@ -4,3 +4,7 @@ This repository contains my Java programming and Data Structures & Algorithms (D
 It includes simple programs, OOP concepts, arrays, logic-building exercises, and basic algorithm implementations written as part of my daily learning.
 
 ---
+
+## 🚀 What’s Inside?
+
+### 🧱 1. Object-Oriented Programming (OOP)
