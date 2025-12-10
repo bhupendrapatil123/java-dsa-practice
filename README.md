@@ -5,6 +5,3 @@ It includes simple programs, OOP concepts, arrays, logic-building exercises, and
 
 ---
 
-## 🚀 What’s Inside?
-
-### 🧱 1. Object-Oriented Programming (OOP)
